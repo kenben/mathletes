@@ -7,7 +7,7 @@ library(RMySQL)
 
 # The following line connects to the database.  Fill in the required password.
 con <- dbConnect(RMySQL::MySQL(), host = "mathletes2015.cxakoyfdtshs.eu-west-1.rds.amazonaws.com", 
-                 dbname = "mathletes_anon", user = "reader", password = "lesson_prep")
+                 dbname = "mathletes_anon", user = "reader", password = "?????????")
 
 
 # Some basic info functions
