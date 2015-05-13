@@ -8,7 +8,7 @@ import MySQLdb
 # connect
 db = MySQLdb.connect(host = "mathletes2015.cxakoyfdtshs.eu-west-1.rds.amazonaws.com",
                     user="reader",
-                    passwd="lesson_prep",
+                    passwd="???????",
                     db="mathletes_anon")
 
 cursor = db.cursor()
